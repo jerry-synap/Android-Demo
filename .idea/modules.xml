@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Demo.iml" group="Android-Demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faceppdemo/faceppdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/faceppdemo/faceppdemo.iml" group="Android-Demo/faceppdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/sdk.iml" group="Android-Demo/sdk" />
+    </modules>
+  </component>
+</project>
